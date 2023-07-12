@@ -51,8 +51,23 @@
     right: 0;
 }
 
+.mat-mdc-fab {
+  background-color: rgb(4, 59, 4);
+  border: 2px solid;
+}
+
 .button-add {
   position: absolute;
   right: 32px;
   bottom: 32px;
+  color: rgb(199, 93, 228);
+}
+
+
+
+.pin-bottom {
+  position: absolute;
+  bottom: 32px;
+  left: 100px;
+  right: 100px;
 }
